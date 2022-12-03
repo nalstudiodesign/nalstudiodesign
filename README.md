@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nalstudiodesign
+- 👋 Hi, I’m @studio-naldesign
 - 👀 I’m interested in mechatronic optimization of professional manufacturing machine tools, 
-for the craft industry. The goal is to offer, at a low price, cnc for heavy professional work, 
+for crafts industry. The goal is to offer, at very low price, cnc for heavy professional work, 
 really robust and powerful machines, precise and fast, with an optimized mechanical structure, 
 up to date with the available manufacturing capacities. High-end cnc, at a low price. 
 CNC machines specially designed to increase the production processes of artisans and makers around the world. 
